@@ -1,0 +1,24 @@
+.card-container {
+    margin: 32px;
+    border: 1px solid grey;
+    padding: 16px;
+  }
+  
+  .news-title {
+    font-size: 32px;
+    color: rgb(85, 24, 150);
+    font-weight: 600;
+  }
+  
+  .news-url {
+    color: blue;
+  }
+  
+  .news-publisher {
+    display:flex;
+    justify-content: space-between;
+  }
+
+  .hostname {
+      color:rgb(29, 10, 102);
+  }
